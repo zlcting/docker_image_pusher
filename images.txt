@@ -1,2 +1,2 @@
---platform=linux/arm64 homeassistant/home-assistant:2024.10
---platform=linux/arm64 homeassistant/home-assistant:2024.10.2
+--platform=linux/arm64 homeassistant/home-assistant:2024.10.0
+--platform=linux/arm64 homeassistant/home-assistant:2024.10.1
