@@ -1,2 +1,10 @@
---platform=linux/arm64 homeassistant/home-assistant:2024.10.0
---platform=linux/arm64 homeassistant/home-assistant:2024.10.1
+--platform=linux/arm64 homeassistant/home-assistant:2024.9.3
+--platform=linux/arm64 homeassistant/home-assistant:2024.9
+--platform=linux/arm64 tailscale/tailscale:v1.68
+--platform=linux/arm64 tailscale/tailscale:v1.68.1
+--platform=linux/arm64 tailscale/tailscale:v1.72
+--platform=linux/arm64 tailscale/tailscale:v1.70.0
+--platform=linux/arm64 tailscale/tailscale:v1.66.4
+--platform=linux/arm64 tailscale/tailscale:v1.72.0
+--platform=linux/arm64 tailscale/tailscale:v1.74
+--platform=linux/arm64 tailscale/tailscale:v1.74.1
