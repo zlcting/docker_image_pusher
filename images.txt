@@ -1,2 +1,1 @@
-#支持指定架构
---platform=linux/arm64 teslamate/teslamate:1.30
+--platform=linux/arm64 home-assistant:2024.10
