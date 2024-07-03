@@ -1,4 +1,5 @@
 #支持私库
 homeassistant/home-assistant:2024.5.5
+nodered/node-red:4.0.1
 #支持指定架构
 --platform=linux/arm64
