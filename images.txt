@@ -1,4 +1,4 @@
 #支持私库
-homeassistant/home-assistant:2024.6.4
+homeassistant/home-assistant:2024.7
 #支持指定架构
 --platform=linux/arm64
