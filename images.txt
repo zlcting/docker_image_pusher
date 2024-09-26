@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 esphome/esphome:2024.9.1
+--platform=linux/arm64 teslamate/teslamate:1.30
