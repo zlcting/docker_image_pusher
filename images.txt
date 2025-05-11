@@ -1,1 +1,1 @@
---platform=linux/arm64 homebridge/homebridge:2025-02-26
+--platform=linux/arm64 koenkk/zigbee2mqtt:2.3
