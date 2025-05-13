@@ -1,1 +1,1 @@
---platform=linux/arm64 koenkk/zigbee2mqtt:2.3
+--platform=linux/arm64 eclipse-mosquitto:1.6
