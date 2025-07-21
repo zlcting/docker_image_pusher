@@ -1,1 +1,1 @@
---platform=linux/arm64 eclipse-mosquitto:1.6
+--platform=linux/arm64 esphome/esphome:2025.6.3
