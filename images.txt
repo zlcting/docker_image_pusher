@@ -1,1 +1,1 @@
---platform=linux/arm64 alexxit/go2rtc:1.9.9
+--platform=linux/arm64 homeassistant/home-assistant:2025.9
