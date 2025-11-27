@@ -1,1 +1,1 @@
---platform=linux/arm64 homeassistant/home-assistant:2025.10.3
+--platform=linux/arm64 homebridge/homebridge:2025-11-25
