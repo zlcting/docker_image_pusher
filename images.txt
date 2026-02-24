@@ -1,1 +1,1 @@
---platform=linux/arm64 nodered/node-red:4.1.1-22
+--platform=linux/arm64 homeassistant/home-assistant:2026.1.3
